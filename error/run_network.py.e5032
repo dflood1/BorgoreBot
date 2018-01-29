@@ -1,0 +1,4 @@
+  File "/home/eherbert/Misc/BorgoreBot/network.py", line 43
+    history = model.fit(data,labels,validation_split=0.05,verbose=1,batch_size=128,epochs=20,shuffle=True).history
+          ^
+SyntaxError: invalid syntax
